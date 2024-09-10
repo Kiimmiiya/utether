@@ -19,7 +19,7 @@ const Page: PageEl = (props, state, refresh, getProps) => {
   return (
     <div style={{ direction: "rtl", minHeight: "11vh", }}>
       <br-x />
-      <Window title={"قیمت لحظه ای تتر ( دلار )"} style={{ minHeight: 180, margin: 10, width: "calc(100% - 20px)" }}>
+      <Window title={"قیمت لحظه ای تتر ( دلار )"} style={{ minHeight: 180, margin: 11 , width: "calc(100% - 20px)" }}>
 
 
       <br-x/>
@@ -111,7 +111,7 @@ const Page: PageEl = (props, state, refresh, getProps) => {
 
 
         <center style={{fontSize:8}}>
-          Voyager phoenix 
+          Phoenix - Turing 
         </center>
 
 
